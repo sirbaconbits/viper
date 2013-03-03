@@ -1,0 +1,27 @@
+{
+  "name": "viper",
+  "version": "0.0.1",
+  "author": "Adam Hovorka <adamhovorka@gmail.com>",
+  "description": "a multiplayer space dogfight simulator",
+  "contributors": [ 
+    {
+      "name": "Keaton Tate",
+      "email": "tate.keaton@gmail.com"
+    } 
+  ],
+  "scripts": {
+    "start": "node .",
+    "test": "echo No test script exists yet."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamhovorka/viper.git"
+  },
+  "dependencies" : {
+    "node-static"   :  "0.6.7"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  }
+}
